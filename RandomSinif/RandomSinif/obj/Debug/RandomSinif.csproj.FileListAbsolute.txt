@@ -1,0 +1,7 @@
+C:\Users\Egemen\source\repos\RandomSinif\RandomSinif\bin\Debug\RandomSinif.exe.config
+C:\Users\Egemen\source\repos\RandomSinif\RandomSinif\bin\Debug\RandomSinif.exe
+C:\Users\Egemen\source\repos\RandomSinif\RandomSinif\bin\Debug\RandomSinif.pdb
+C:\Users\Egemen\source\repos\RandomSinif\RandomSinif\obj\Debug\RandomSinif.csproj.AssemblyReference.cache
+C:\Users\Egemen\source\repos\RandomSinif\RandomSinif\obj\Debug\RandomSinif.csproj.CoreCompileInputs.cache
+C:\Users\Egemen\source\repos\RandomSinif\RandomSinif\obj\Debug\RandomSinif.exe
+C:\Users\Egemen\source\repos\RandomSinif\RandomSinif\obj\Debug\RandomSinif.pdb
